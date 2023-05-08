@@ -48,7 +48,7 @@
        <distributionManagement>
           <repository>
             <id>java-jenkins-repo</id>
-                <url>http://13.127.43.40:8081/repository/java-jenkins-repo/</url>
+                <url>http://3.7.68.19:8081/repository/java-jenkins-repo/</url>
             </repository>
        </distributionManagement>
 
